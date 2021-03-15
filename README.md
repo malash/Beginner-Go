@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi i'm Beginner-Go 😎
+
+**大家好，我是辣鸡 (Loser)** 
+
+**大佬们请带带我** 
+
+💬💬💬
 
 <!--
 **Beginner-Go/Beginner-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
