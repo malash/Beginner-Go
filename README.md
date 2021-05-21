@@ -4,7 +4,7 @@
 
 **大佬们请带飞** 
 
-💬💬💬
+![](https://github-readme-stats.vercel.app/api?username=Beginner-Go&theme=dark)
 
 <!--
 **Beginner-Go/Beginner-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
