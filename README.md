@@ -1,8 +1,6 @@
 ### Hi i'm Beginner-Go 😎
 
-**大家好，我是辣鸡 (Loser)** 
-
-**大佬们请带飞** 
+**大家好，我是菜鸡 (Loser)** 
 
 ![](https://github-readme-stats.vercel.app/api?username=Beginner-Go&theme=dark)
 
