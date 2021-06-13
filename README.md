@@ -2,7 +2,7 @@
 
 **大家好，我是菜鸡 (Loser)** 
 
-![](https://github-readme-stats.vercel.app/api?username=Beginner-Go&theme=dark)
+![Beginner-Go’s github stats](https://github-readme-stats.vercel.app/api?username=Beginner-Go&show_icons=true&theme=merko)
 
 <!--
 **Beginner-Go/Beginner-Go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
